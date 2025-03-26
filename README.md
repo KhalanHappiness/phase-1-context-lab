@@ -5,6 +5,10 @@
 * Update our time-card and payroll application to use the employee record as
   context rather than passing it as an argument.
 
+  - procedural programming: executing functions in a particulaar sequence while passing info to use as arguments
+
+  record oriented programming: 
+
 ## Introduction
 
 In this lab, we're going to build the time-card and payroll application using
